@@ -1,4 +1,3 @@
-# quisk_rs-hfiq
 # Quisk Python interface for the [RS-HFIQ 5W HF SDR Transceiver] (http://www.hobbypcb.com/rs-hfiq) 
 
 **WIP:**  Interface mostly working, but haven't hashed out the Quirks interface.
